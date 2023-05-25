@@ -10,5 +10,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=minhtri12112001&icon=0&color=0)](https://visitcount.itsvg.in)
-
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
